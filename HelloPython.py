@@ -86,6 +86,9 @@ for num in number:
 dis = {'tg':34,(1,2,3):23}
 print(dis['tg'])
 print(dis[(1,2,3)])
+
+from abstest import my_abs
+print(my_abs(-123))
 	
 
 
